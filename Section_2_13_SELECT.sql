@@ -1,4 +1,4 @@
--- Challenges from Udemy.com course:
+-- Udemy.com course challenge:
 -- The Complete SQL Bootcamp: Go from Zero to Hero
 
 -- Challenge: SELECT
